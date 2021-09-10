@@ -122,6 +122,8 @@
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/abstracts/</loc>
+  </url><url>
     <loc>/author/anthony-lee/</loc>
   </url><url>
     <loc>/author/elisabeth-gassiat/</loc>
@@ -137,5 +139,7 @@
     <loc>/author/randal-douc/</loc>
   </url><url>
     <loc>/author/remi-bardenet/</loc>
+  </url><url>
+    <loc>/abstracts/untitled/</loc>
   </url>
 </urlset>
