@@ -9,5 +9,5 @@ output:
 
 This course will mainly focus on two recently submitted papers:
 
-- Multiple testingss in non parametric hidden Markov models: an empirical Bayes approach (K. Abraham, I. Castillo, E. Gassiat, avalaible [here](https://arxiv.org/abs/2101.03838));
+- Multiple testing in non parametric hidden Markov models: an empirical Bayes approach (K. Abraham, I. Castillo, E. Gassiat, avalaible [here](https://arxiv.org/abs/2101.03838));
 - Fundamental limits for learning hidden Markov model parameters (K. Abraham, E. Gassiat, Z. Naulet, available [here](https://arxiv.org/abs/2106.12936));
